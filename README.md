@@ -46,8 +46,6 @@
 ├── tsconfig.json
 └── yarn.lock
 
-### name: 财税学院会员服务中心
-### create-react-app 项目 后端java
 ### 运维发布dist 文件夹
 ### 状态页（发布使用） /DEPLOY
 ### `npm start`

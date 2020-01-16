@@ -6,7 +6,6 @@
     "@babel/core": "7.4.3",
     "@babel/plugin-transform-react-jsx-self": "^7.2.0",
     "@babel/plugin-transform-react-jsx-source": "^7.2.0",
-    "@gaodun.com/publish-status": "^1.0.9",
     "@svgr/webpack": "4.1.0",
     "@types/history": "^4.7.2",
     "@types/jest": "24.0.15",
